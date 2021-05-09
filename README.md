@@ -1,2 +1,2 @@
-# DataScience
-This is used to put notebooks for data science related work
+# MyLearning
+This is used to summarize my learning in a form of notebooks. 
